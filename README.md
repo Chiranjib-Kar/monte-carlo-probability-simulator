@@ -14,6 +14,6 @@ python monty_hall.py
 
 ### Sample output
 \`\`\`
-Win probability while switching: 0.6654
-Win probability while staying: 0.3346
+Win probability while switching: 0.6681
+Win probability while staying: 0.33635
 \`\`\`
